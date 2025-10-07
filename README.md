@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashsavalkar321&color=blue"/>
+  <img src=""/>
 </div>
 
 ---
@@ -49,20 +49,20 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsavalkar321&show_icons=true&locale=en&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANKANJAGTAP&show_icons=true&locale=en&theme=dark"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsavalkar321&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANKANJAGTAP&show_icons=true&locale=en&layout=compact&theme=dark"/>
 </p>
 
 ---
 
 ### 🚀 Competitive Programming Profiles:
 <p align="center">
-  <a href="https://www.codeforces.com/profile/yash_savalkar">
+  <a href="https://www.codechef.com/users/ankan2127">
     <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=yash_savalkar&theme=github_dark&border_color=404040" alt="Codeforces Stats"/>
   </a>
-  <a href="https://www.leetcode.com/yashsavalkar321">
-    <img height="316" src="https://leetcard.jacoblin.cool/yashsavalkar321?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/user7528Es/">
+    <img height="316" src="https://leetcard.jacoblin.cool/ANKANJAGTAP?theme=dark&font=Ubuntu%22%20alt=%22LeetCode%20Stats"/>
   </a>
 </p>
 
