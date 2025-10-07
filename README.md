@@ -59,7 +59,7 @@
 ### 🚀 Competitive Programming Profiles:
 <p align="center">
   <a href="https://www.codechef.com/users/ankan2127">
-    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=yash_savalkar&theme=github_dark&border_color=404040" alt="Codeforces Stats"/>
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=ankanjagtap21&theme=github_dark&border_color=404040" alt="Codeforces Stats"/>
   </a>
   <a href="https://leetcode.com/u/user7528Es/">
     <img height="316" src="https://leetcard.jacoblin.cool/ANKANJAGTAP?theme=dark&font=Ubuntu%22%20alt=%22LeetCode%20Stats"/>
