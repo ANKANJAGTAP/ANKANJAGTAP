@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Yash Savalkar</h1>
+<h1 align="center">Hi 👋, I'm ANKAN JAGTAP</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
 
 <img align="right" alt="coding_gif" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
@@ -18,14 +18,14 @@
 - 🌱 I’m currently learning **DSA**
 - 💡 I love working on **Full-Stack Development, DSA, and CP**
 - 👯 I’m looking to collaborate on **Web Development Projects & Hackathons**
-- 📫 How to reach me: **yashsavalkar321@gmail.com**
+- 📫 How to reach me: **ankanjagtap.2005@gmail.com**
 
 ---
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/yashsavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://instagram.com/yash_savalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/ankan-jagtap-0633ab28a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/ankanjagtap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
 </p>
 
 ---
